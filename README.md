@@ -1,5 +1,5 @@
-# anthony-ricardo
-## Hey there! I'm Lucas Vitor. 😄
+
+## Hey there! I'm Anthony Ricardo. 😄
 
 > About Me
 - I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
