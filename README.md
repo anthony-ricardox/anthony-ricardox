@@ -11,9 +11,8 @@
 <div align="center">
   <a href="https://www.instagram.com/anthonyricardox/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/anthony-ricardo-720213239/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://lucasact4.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5581984414760&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-  <a href="https://discord.com/invite/n4E9VPT" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://https://github.com/anthony-ricardox/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5581987211184&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 </div>
 
 <br>
@@ -21,7 +20,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
+      <a href="https://github.com/anthony-ricardo/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=anthony-ricardox&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
     </td>
   </tr>
 </table>
@@ -29,7 +28,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
+      <a href="https://github.com/anthony-ricardo/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-ricardo&layout=compact&theme=dark&hide_border=false" /></a>
     </td>
   </tr>
 </table>
