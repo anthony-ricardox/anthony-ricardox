@@ -9,6 +9,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-ricardo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+> Contacts:
+<div align="center">
+  <a href="https://www.instagram.com/anthonyricardox/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/anthony-ricardo-720213239/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://https://github.com/anthony-ricardox/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5581987211184&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anthony-ricardo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
