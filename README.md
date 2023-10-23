@@ -36,6 +36,7 @@
   <code><img height="30" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 </div>
 
+<br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -44,12 +45,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-
- 
-##
-
-    
-##
     
 
  
