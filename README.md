@@ -33,21 +33,6 @@
  
 ##
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anthony-ricardo/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=anthony-ricardox&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anthony-ricardo/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-ricardo&layout=compact&theme=dark&hide_border=false" /></a>
-    </td>
-  </tr>
-</table>
     
 ##
     
