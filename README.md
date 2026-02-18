@@ -36,10 +36,8 @@
 
 <br>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AnthonyRicardo}/count.svg" /></p> 
-<br></div>
+![Visitors](https://komarev.com/ghpvc/?username=anthony-ricardox&color=0abde3&style=flat)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
