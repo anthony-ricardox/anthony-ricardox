@@ -3,9 +3,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Anthony+Ricardo+Farias;I'm+23+years+old;I+am+from+Abreu+e+Lima,+Pe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthony-ricardox&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-ricardox&layout=compact&theme=dark)
 
 
 
