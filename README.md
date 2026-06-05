@@ -36,9 +36,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthony-ricardox&color=0abde3&style=flat" />
-</p>
+
 
 
 
