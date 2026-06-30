@@ -16,7 +16,18 @@
 
 <br>
 
-[![Anthony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anthony-ricardox&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/anthony-ricardox)
+<h2 align="center">📊 Estatísticas</h2>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://streak-stats.demolab.com?user=anthony-ricardox&theme=tokyonight&locale=pt-br"
+    alt="Estatísticas de contribuições do GitHub"
+  />
+</p>
+
+<!---
+[![Anthony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anthony-ricardox&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/anthony-ricardox)-->
 
 
 > Tecnologies:
