@@ -17,11 +17,10 @@
 <br>
 
 <h2 align="center">📊 Estatísticas</h2>
-
 <p align="center">
   <img
     width="100%"
-    src="https://streak-stats.demolab.com?user=anthony-ricardox&theme=tokyonight&locale=pt-br"
+    src="https://streak-stats.demolab.com?user=anthony-ricardox&theme=tokyonight&locale=pt-br&t=1"
     alt="Estatísticas de contribuições do GitHub"
   />
 </p>
