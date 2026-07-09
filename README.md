@@ -42,11 +42,11 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=anthony-ricardox&show_icons=true&theme=tokyonight&count_private=true&height=192" alt="Estatísticas do GitHub" />
+    <td width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=anthony-ricardox&show_icons=true&theme=tokyonight" alt="Estatísticas" width="100%" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-ricardox&layout=compact&theme=tokyonight&height=192" alt="Linguagens mais usadas" />
+    <td width="50%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anthony-ricardox&layout=compact&theme=tokyonight" alt="Linguagens" width="100%" />
     </td>
   </tr>
 </table>
