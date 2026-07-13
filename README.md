@@ -38,7 +38,11 @@
 
 <br>
 
-<h2 align="center">📊 Estatísticas</h2>
+<h2 align="center">
+  <img src="./profile-fire-icon.svg" width="32" align="center" />
+  Estatísticas
+  <img src="./profile-fire-icon.svg" width="32" align="center" />
+</h2>
 
 <table align="center">
   <tr>
@@ -50,6 +54,11 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anthony-ricardox&theme=tokyonight&hide_border=true" alt="Streak de commits" width="100%" />
+</p>
+ 
 
 <!---
 [![Anthony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anthony-ricardox&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/anthony-ricardox)-->
