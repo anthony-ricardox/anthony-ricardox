@@ -17,7 +17,7 @@
   <h3>MyConsulta (White Label & SaaS)</h3>
   <p><i>Status: 🏗️ Em desenvolvimento ativo</i></p>
   
-  <img src="https://github.com/anthony-ricardox/ETE-projeto/blob/main/frontend/src/assets/myconsulta-img.jpeg?raw=true" width="600" style="border-radius: 8px;">
+  <img src="https://github.com/anthony-ricardox/ETE-projeto/blob/main/myconsulta-web/src/assets/myconsulta-img.jpeg?raw=true" width="600" style="border-radius: 8px;">
   
   <p>Desenvolvo esta plataforma de gestão clínica e agendamento médico em equipe, sendo o principal responsável pela implementação da base do projeto. A solução visa otimizar a jornada do paciente e a administração hospitalar.</p>
   
